@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';
 
 // List of user agents to simulate different browsers
 const userAgents = [
