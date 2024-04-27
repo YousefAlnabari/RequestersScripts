@@ -3,4 +3,4 @@
 <br>
 [V] JavaScript
 <br>
-[X] Java
+[V] Java
